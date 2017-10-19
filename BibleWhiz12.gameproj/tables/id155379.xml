@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="LayoutSetup" numRows="3" numCols="11" flags="9" tableType="0">
+<rows>
+<row id="0" name=""/>
+<row id="1" name=""/>
+<row id="2" name=""/>
+</rows>
+<columns>
+<column id="0" name="Details" type="1" readonly="0">Image,answer2x2_,answer1x4_</column>
+<column id="1" name="Width" type="2" readonly="0">425,425,425</column>
+<column id="2" name="Height" type="2" readonly="0">77,77,77</column>
+<column id="3" name="X1" type="2" readonly="0">258,258,258</column>
+<column id="4" name="Y1" type="2" readonly="0">270,270,270</column>
+<column id="5" name="X2" type="2" readonly="0">759,759,759</column>
+<column id="6" name="Y2" type="2" readonly="0">270,270,270</column>
+<column id="7" name="X3" type="2" readonly="0">258,258,258</column>
+<column id="8" name="Y3" type="2" readonly="0">145,145,145</column>
+<column id="9" name="X4" type="2" readonly="0">759,759,759</column>
+<column id="10" name="Y4" type="2" readonly="0">145,145,145</column>
+</columns>
+</table>

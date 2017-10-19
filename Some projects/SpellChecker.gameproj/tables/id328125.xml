@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Words23" numRows="1" numCols="21" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">!an!ca!de!di!el!he!hy!in!mi!no!ov!po!ps!re!tr!</column>
+        <column id="1" name="" type="1" readonly="0">antiestablishmentarians</column>
+        <column id="2" name="" type="1" readonly="0">carboxymethylcelluloses</column>
+        <column id="3" name="" type="1" readonly="0">deinstitutionalizations</column>
+        <column id="4" name="" type="1" readonly="0">dichlorodifluoromethane</column>
+        <column id="5" name="" type="1" readonly="0">disproportionablenesses</column>
+        <column id="6" name="" type="1" readonly="0">electroencephalographer</column>
+        <column id="7" name="" type="1" readonly="0">electroencephalographic</column>
+        <column id="8" name="" type="1" readonly="0">hexamethylenetetramines</column>
+        <column id="9" name="" type="1" readonly="0">hydrochlorofluorocarbon</column>
+        <column id="10" name="" type="1" readonly="0">indistinguishablenesses</column>
+        <column id="11" name="" type="1" readonly="0">intersubstitutabilities</column>
+        <column id="12" name="" type="1" readonly="0">microspectrophotometers</column>
+        <column id="13" name="" type="1" readonly="0">microspectrophotometric</column>
+        <column id="14" name="" type="1" readonly="0">nonrepresentationalisms</column>
+        <column id="15" name="" type="1" readonly="0">overintellectualization</column>
+        <column id="16" name="" type="1" readonly="0">polytetrafluorethylenes</column>
+        <column id="17" name="" type="1" readonly="0">psychoneuroimmunologies</column>
+        <column id="18" name="" type="1" readonly="0">psychoneuroimmunologist</column>
+        <column id="19" name="" type="1" readonly="0">reinstitutionalizations</column>
+        <column id="20" name="" type="1" readonly="0">transubstantiationalist</column>
+    </columns>
+</table>

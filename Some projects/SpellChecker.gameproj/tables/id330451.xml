@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Words21" numRows="1" numCols="84" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">!ac!ad!an!bu!cl!co!de!di!ec!el!es!ex!hy!im!in!me!mi!mu!ne!no!ot!ov!ph!po!ps!re!st!su!te!tr!ul!un!</column>
+        <column id="1" name="" type="1" readonly="0">acetylcholinesterases</column>
+        <column id="2" name="" type="1" readonly="0">adrenocorticosteroids</column>
+        <column id="3" name="" type="1" readonly="0">adrenocorticotrophins</column>
+        <column id="4" name="" type="1" readonly="0">anthropomorphizations</column>
+        <column id="5" name="" type="1" readonly="0">antiauthoritarianisms</column>
+        <column id="6" name="" type="1" readonly="0">antiferromagnetically</column>
+        <column id="7" name="" type="1" readonly="0">buckminsterfullerenes</column>
+        <column id="8" name="" type="1" readonly="0">clinicopathologically</column>
+        <column id="9" name="" type="1" readonly="0">compartmentalizations</column>
+        <column id="10" name="" type="1" readonly="0">constitutionalization</column>
+        <column id="11" name="" type="1" readonly="0">contemporaneousnesses</column>
+        <column id="12" name="" type="1" readonly="0">countercountermeasure</column>
+        <column id="13" name="" type="1" readonly="0">counterdemonstrations</column>
+        <column id="14" name="" type="1" readonly="0">counterinterpretation</column>
+        <column id="15" name="" type="1" readonly="0">counterproductiveness</column>
+        <column id="16" name="" type="1" readonly="0">counterrevolutionists</column>
+        <column id="17" name="" type="1" readonly="0">dendrochronologically</column>
+        <column id="18" name="" type="1" readonly="0">disadvantageousnesses</column>
+        <column id="19" name="" type="1" readonly="0">disestablishmentarian</column>
+        <column id="20" name="" type="1" readonly="0">disproportionableness</column>
+        <column id="21" name="" type="1" readonly="0">echoencephalographies</column>
+        <column id="22" name="" type="1" readonly="0">electrocardiographies</column>
+        <column id="23" name="" type="1" readonly="0">electroencephalograms</column>
+        <column id="24" name="" type="1" readonly="0">electroencephalograph</column>
+        <column id="25" name="" type="1" readonly="0">electromyographically</column>
+        <column id="26" name="" type="1" readonly="0">electroretinographies</column>
+        <column id="27" name="" type="1" readonly="0">establishmentarianism</column>
+        <column id="28" name="" type="1" readonly="0">extraterritorialities</column>
+        <column id="29" name="" type="1" readonly="0">hypercholesterolemias</column>
+        <column id="30" name="" type="1" readonly="0">hypersusceptibilities</column>
+        <column id="31" name="" type="1" readonly="0">immunocytochemistries</column>
+        <column id="32" name="" type="1" readonly="0">immunoelectrophoreses</column>
+        <column id="33" name="" type="1" readonly="0">immunoelectrophoresis</column>
+        <column id="34" name="" type="1" readonly="0">immunoelectrophoretic</column>
+        <column id="35" name="" type="1" readonly="0">incommunicativenesses</column>
+        <column id="36" name="" type="1" readonly="0">incomprehensibilities</column>
+        <column id="37" name="" type="1" readonly="0">incomprehensivenesses</column>
+        <column id="38" name="" type="1" readonly="0">inconsequentialnesses</column>
+        <column id="39" name="" type="1" readonly="0">incontrovertibilities</column>
+        <column id="40" name="" type="1" readonly="0">indistinguishableness</column>
+        <column id="41" name="" type="1" readonly="0">institutionalizations</column>
+        <column id="42" name="" type="1" readonly="0">intellectualistically</column>
+        <column id="43" name="" type="1" readonly="0">interchangeablenesses</column>
+        <column id="44" name="" type="1" readonly="0">interconvertibilities</column>
+        <column id="45" name="" type="1" readonly="0">internationalizations</column>
+        <column id="46" name="" type="1" readonly="0">intersubstitutability</column>
+        <column id="47" name="" type="1" readonly="0">meningoencephalitides</column>
+        <column id="48" name="" type="1" readonly="0">microminiaturizations</column>
+        <column id="49" name="" type="1" readonly="0">misapprehensivenesses</column>
+        <column id="50" name="" type="1" readonly="0">multidimensionalities</column>
+        <column id="51" name="" type="1" readonly="0">neuroendocrinological</column>
+        <column id="52" name="" type="1" readonly="0">neuroendocrinologists</column>
+        <column id="53" name="" type="1" readonly="0">nondenominationalisms</column>
+        <column id="54" name="" type="1" readonly="0">otorhinolaryngologies</column>
+        <column id="55" name="" type="1" readonly="0">otorhinolaryngologist</column>
+        <column id="56" name="" type="1" readonly="0">overcommercialization</column>
+        <column id="57" name="" type="1" readonly="0">overintellectualizing</column>
+        <column id="58" name="" type="1" readonly="0">phosphoglyceraldehyde</column>
+        <column id="59" name="" type="1" readonly="0">photolithographically</column>
+        <column id="60" name="" type="1" readonly="0">photophosphorylations</column>
+        <column id="61" name="" type="1" readonly="0">poluphloisboiotatotic</column>
+        <column id="62" name="" type="1" readonly="0">pseudocholinesterases</column>
+        <column id="63" name="" type="1" readonly="0">pseudohermaphroditism</column>
+        <column id="64" name="" type="1" readonly="0">pseudosophistications</column>
+        <column id="65" name="" type="1" readonly="0">psychoneuroimmunology</column>
+        <column id="66" name="" type="1" readonly="0">psychopharmacological</column>
+        <column id="67" name="" type="1" readonly="0">psychopharmacologists</column>
+        <column id="68" name="" type="1" readonly="0">psychophysiologically</column>
+        <column id="69" name="" type="1" readonly="0">psychotherapeutically</column>
+        <column id="70" name="" type="1" readonly="0">representationalistic</column>
+        <column id="71" name="" type="1" readonly="0">stereomicroscopically</column>
+        <column id="72" name="" type="1" readonly="0">straightforwardnesses</column>
+        <column id="73" name="" type="1" readonly="0">succinylsulfathiazole</column>
+        <column id="74" name="" type="1" readonly="0">tetrahydrocannabinols</column>
+        <column id="75" name="" type="1" readonly="0">transubstantiationist</column>
+        <column id="76" name="" type="1" readonly="0">ultraminiaturizations</column>
+        <column id="77" name="" type="1" readonly="0">uncommunicativenesses</column>
+        <column id="78" name="" type="1" readonly="0">unconstitutionalities</column>
+        <column id="79" name="" type="1" readonly="0">undemonstrativenesses</column>
+        <column id="80" name="" type="1" readonly="0">undistinguishableness</column>
+        <column id="81" name="" type="1" readonly="0">unexceptionablenesses</column>
+        <column id="82" name="" type="1" readonly="0">unselfconsciousnesses</column>
+        <column id="83" name="" type="1" readonly="0">unsophisticatednesses</column>
+    </columns>
+</table>

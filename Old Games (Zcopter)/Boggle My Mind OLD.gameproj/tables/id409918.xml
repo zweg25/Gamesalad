@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="TB letters" numRows="1" numCols="55" flags="0" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">e</column>
+        <column id="1" name="" type="1" readonly="0">e</column>
+        <column id="2" name="" type="1" readonly="0">t</column>
+        <column id="3" name="" type="1" readonly="0">t</column>
+        <column id="4" name="" type="1" readonly="0">a</column>
+        <column id="5" name="" type="1" readonly="0">a</column>
+        <column id="6" name="" type="1" readonly="0">o</column>
+        <column id="7" name="" type="1" readonly="0">o</column>
+        <column id="8" name="" type="1" readonly="0">i</column>
+        <column id="9" name="" type="1" readonly="0">i</column>
+        <column id="10" name="" type="1" readonly="0">n</column>
+        <column id="11" name="" type="1" readonly="0">n</column>
+        <column id="12" name="" type="1" readonly="0">s</column>
+        <column id="13" name="" type="1" readonly="0">s</column>
+        <column id="14" name="" type="1" readonly="0">r</column>
+        <column id="15" name="" type="1" readonly="0">r</column>
+        <column id="16" name="" type="1" readonly="0">h</column>
+        <column id="17" name="" type="1" readonly="0">h</column>
+        <column id="18" name="" type="1" readonly="0">l</column>
+        <column id="19" name="" type="1" readonly="0">l</column>
+        <column id="20" name="" type="1" readonly="0">d</column>
+        <column id="21" name="" type="1" readonly="0">d</column>
+        <column id="22" name="" type="1" readonly="0">c</column>
+        <column id="23" name="" type="1" readonly="0">c</column>
+        <column id="24" name="" type="1" readonly="0">m</column>
+        <column id="25" name="" type="1" readonly="0">m</column>
+        <column id="26" name="" type="1" readonly="0">f</column>
+        <column id="27" name="" type="1" readonly="0">f</column>
+        <column id="28" name="" type="1" readonly="0">p</column>
+        <column id="29" name="" type="1" readonly="0">p</column>
+        <column id="30" name="" type="1" readonly="0">g</column>
+        <column id="31" name="" type="1" readonly="0">g</column>
+        <column id="32" name="" type="1" readonly="0">w</column>
+        <column id="33" name="" type="1" readonly="0">y</column>
+        <column id="34" name="" type="1" readonly="0">b</column>
+        <column id="35" name="" type="1" readonly="0">v</column>
+        <column id="36" name="" type="1" readonly="0">k</column>
+        <column id="37" name="" type="1" readonly="0">x</column>
+        <column id="38" name="" type="1" readonly="0">j</column>
+        <column id="39" name="" type="1" readonly="0">qu</column>
+        <column id="40" name="" type="1" readonly="0">z</column>
+        <column id="41" name="" type="1" readonly="0">e</column>
+        <column id="42" name="" type="1" readonly="0">t</column>
+        <column id="43" name="" type="1" readonly="0">a</column>
+        <column id="44" name="" type="1" readonly="0">o</column>
+        <column id="45" name="" type="1" readonly="0">i</column>
+        <column id="46" name="" type="1" readonly="0">n</column>
+        <column id="47" name="" type="1" readonly="0">s</column>
+        <column id="48" name="" type="1" readonly="0">r</column>
+        <column id="49" name="" type="1" readonly="0">l</column>
+        <column id="50" name="" type="1" readonly="0">h</column>
+        <column id="51" name="" type="1" readonly="0">d</column>
+        <column id="52" name="" type="1" readonly="0">e</column>
+        <column id="53" name="" type="1" readonly="0">c</column>
+        <column id="54" name="" type="1" readonly="0">m</column>
+    </columns>
+</table>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.19" id="id421738" class="AnimateBehavior" GSCVersion="0.10.4.1" enabled="true"><attributes><text id="name">Animate</text><text id="bundleName">Animate.behavior</text><text id="images">Bird1	Bird2	Bird3	Bird2</text><index id="speed">15</index><boolean id="loop">true</boolean><boolean id="restoreActorImage">false</boolean></attributes></behavior>

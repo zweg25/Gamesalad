@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Words25" numRows="1" numCols="6" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">!an!di!im!ph!</column>
+        <column id="1" name="" type="1" readonly="0">antidisestablishmentarian</column>
+        <column id="2" name="" type="1" readonly="0">antiestablishmentarianism</column>
+        <column id="3" name="" type="1" readonly="0">disestablishmentarianisms</column>
+        <column id="4" name="" type="1" readonly="0">immunoelectrophoretically</column>
+        <column id="5" name="" type="1" readonly="0">phosphatidylethanolamines</column>
+    </columns>
+</table>

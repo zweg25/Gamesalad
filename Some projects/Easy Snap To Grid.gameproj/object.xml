@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game GSCVersion="0.10.2" PGFVersion="0.19" title="Easy Snap To Grid"><resolutionIndependence>0</resolutionIndependence><instructions>See note inside actor</instructions><resolution>3</resolution><longDescription>A simple method to snap actors to a grid
+
+for more from Lump go to http://marketplace.gamesalad.com/#query=lump</longDescription><prototypes><actor id="id767245"/><actor id="id506615"/></prototypes><plugins><attributes id="playhaven"/><attributes id="qqgamecenter"><boolean id="enabled">false</boolean></attributes></plugins><scenes><scene id="id269551"/></scenes><attributes><text id="name">default name</text><real id="time">0</real><size id="displaySize"><real id="width">1024</real><real id="height">768</real></size><text id="actorTags"></text></attributes></game>

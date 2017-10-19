@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Alphabet" numRows="26" numCols="2" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+        <row id="10" name=""/>
+        <row id="11" name=""/>
+        <row id="12" name=""/>
+        <row id="13" name=""/>
+        <row id="14" name=""/>
+        <row id="15" name=""/>
+        <row id="16" name=""/>
+        <row id="17" name=""/>
+        <row id="18" name=""/>
+        <row id="19" name=""/>
+        <row id="20" name=""/>
+        <row id="21" name=""/>
+        <row id="22" name=""/>
+        <row id="23" name=""/>
+        <row id="24" name=""/>
+        <row id="25" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="LC" type="1" readonly="0">a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z</column>
+        <column id="1" name="UC" type="1" readonly="0">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</column>
+    </columns>
+</table>

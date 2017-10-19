@@ -1,0 +1,17 @@
+<table version="0.000000" name="3 letters" numRows="7" numCols="4">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1">y,f,y,a,d,y,x</column>
+        <column id="1" name="" type="1">w,t,o,r,d,e,f</column>
+        <column id="2" name="" type="1">h,i,b,c,a,e,i</column>
+        <column id="3" name="" type="1">why,fit,boy,car,dad,eye,fix</column>
+    </columns>
+</table>

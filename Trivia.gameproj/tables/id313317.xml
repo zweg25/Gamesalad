@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="{Score}" numRows="2" numCols="7" flags="" tableType="">
+    <rows>
+        <row id="0" name="Player 1"/>
+        <row id="1" name="Player 2"/>
+    </rows>
+    <columns>
+        <column id="0" name="Score" type="2" readonly="0">0,0</column>
+        <column id="1" name="Tally 1" type="2" readonly="0">1,0</column>
+        <column id="2" name="Tally 2" type="2" readonly="0">1,0</column>
+        <column id="3" name="Tally 3" type="2" readonly="0">1,0</column>
+        <column id="4" name="Tally 4" type="2" readonly="0">0,0</column>
+        <column id="5" name="1-2-3?" type="3" readonly="0">3.000000,1.000000</column>
+        <column id="6" name="GoingFor?" type="2" readonly="0">0,0</column>
+    </columns>
+</table>

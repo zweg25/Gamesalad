@@ -1,0 +1,17 @@
+<table version="0.000000" name="Table1" numRows="2" numCols="9">
+    <rows>
+        <row id="0" name="X"/>
+        <row id="1" name="Y"/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="3">36.500000,890.500000</column>
+        <column id="1" name="" type="3">352.500000,1144.500000</column>
+        <column id="2" name="" type="3">156.500000,2025.500000</column>
+        <column id="3" name="" type="3">241.500000,2681.500000</column>
+        <column id="4" name="" type="3">43.500000,3354.500000</column>
+        <column id="5" name="" type="3">460.500000,3348.500000</column>
+        <column id="6" name="" type="3">230.500000,3704.500000</column>
+        <column id="7" name="" type="3">363.500000,4343.500000</column>
+        <column id="8" name="" type="3">155.500000,4345.500000</column>
+    </columns>
+</table>

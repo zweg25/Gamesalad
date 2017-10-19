@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="DataSettings" numRows="10" numCols="2" flags="0" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="ColumnSpawnCount" type="2" readonly="0">0,0,0,0,0,0,0,0,0,0</column>
+        <column id="1" name="ColumnWidth" type="2" readonly="0">60,80,100,60,120,120,60,140,80,120</column>
+    </columns>
+</table>

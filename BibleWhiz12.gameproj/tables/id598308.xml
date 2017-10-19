@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="powerUps" numRows="2" numCols="2" flags="9" tableType="0">
+<rows>
+<row id="0" name="&quot;dude&quot;"/>
+<row id="1" name="&quot;power&quot;"/>
+</rows>
+<columns>
+<column id="0" name="name" type="1" readonly="0">50,switch</column>
+<column id="1" name="number" type="2" readonly="255">2,2</column>
+</columns>
+</table>

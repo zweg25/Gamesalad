@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="NetworkAchievements" numRows="0" numCols="6" flags="134217758" tableType="4">
+    <rows>
+    </rows>
+    <columns>
+        <column id="0" name="Id" type="2" readonly="0"></column>
+        <column id="1" name="Action" type="1" readonly="0"></column>
+        <column id="2" name="Name" type="1" readonly="0"></column>
+        <column id="3" name="Description" type="1" readonly="0"></column>
+        <column id="4" name="Steps" type="2" readonly="0"></column>
+        <column id="5" name="Percent Complete" type="2" readonly="0"></column>
+    </columns>
+</table>

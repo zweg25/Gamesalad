@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Words24" numRows="1" numCols="14" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="1" readonly="0">!di!el!hy!in!mi!ov!ph!ps!</column>
+        <column id="1" name="" type="1" readonly="0">dichlorodifluoromethanes</column>
+        <column id="2" name="" type="1" readonly="0">disestablishmentarianism</column>
+        <column id="3" name="" type="1" readonly="0">electrocardiographically</column>
+        <column id="4" name="" type="1" readonly="0">electroencephalographers</column>
+        <column id="5" name="" type="1" readonly="0">electroencephalographies</column>
+        <column id="6" name="" type="1" readonly="0">hydrochlorofluorocarbons</column>
+        <column id="7" name="" type="1" readonly="0">intercomprehensibilities</column>
+        <column id="8" name="" type="1" readonly="0">microelectrophoretically</column>
+        <column id="9" name="" type="1" readonly="0">microspectrophotometries</column>
+        <column id="10" name="" type="1" readonly="0">overintellectualizations</column>
+        <column id="11" name="" type="1" readonly="0">phosphatidylethanolamine</column>
+        <column id="12" name="" type="1" readonly="0">psychoneuroimmunological</column>
+        <column id="13" name="" type="1" readonly="0">psychoneuroimmunologists</column>
+    </columns>
+</table>

@@ -1,0 +1,37 @@
+<table version="0.000000" name="Table 2" numRows="14" numCols="6">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+        <row id="10" name=""/>
+        <row id="11" name=""/>
+        <row id="12" name=""/>
+        <row id="13" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Question" type="1">"How do you say 
+yesterday?","How do you write  
+Horse?","How do you say
+birthday?","How do you say
+What is your name?","How do you write 
+teacher?",Identify the picture: ,"How do you write
+This is my notebook?","How do you write
+It is 9:30 in the morning?",ni you fen se yan qing ,Identify the picture: ,"How do you say
+robot?","How do you write
+robot?","How do you write
+I have blue hair?","How do you write
+eat lunch?"</column>
+        <column id="1" name="Answer 1" type="1">Ming tian,马 ,Kua le ,Ni jiao bi zi?,运动员 ,xi zao ,这个是我的笔记本 ,今天是下午九点三十分 ,你有绿色眼睛 ,xue xiao ,lan qiu ,普通话 ,我有蓝色头发 ,吃晚饭 </column>
+        <column id="2" name="Answer 2" type="1">Jin tian, 狗,Ji ,Ni shi ming zi?,老师  ,xi shou jian ,这个不是我的笔记本 ,今天是上午九点十三分 ,你有紫色眼睛 ,shui jiao ,jing cha ,机器人 ,我有红色头发  ,吃早饭 </column>
+        <column id="3" name="Answer 3" type="1">Zou tian,虎,Sheng ri dan gao ,Ni jiao shen me ming zi? ,学生,shui jiao ,这个是我的橡皮 ,今天是晚上九点三十分 ,你有棕色眼睛 ,qi chuang ,ji qi ren ,篮球 ,我有小脚 ,吃午饭 </column>
+        <column id="4" name="Answer 4" type="1">Hou tian,今天,Sheng ri , Ni shi shen me?,医生 ,wo he shui hao ma ,这个是我的书包 ,今天是上午九点三十分,你有粉色眼睛,chi zao fan ,pu tong hua ,警察,我有褐色脚 ,我洗澡 </column>
+        <column id="5" name="Correct Answer" type="2">4,2,5,4,3,3,2,5,5,4,4,3,2,4</column>
+    </columns>
+</table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="{Position}" numRows="4" numCols="4" flags="" tableType="">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="3" readonly="0">212.000000,312.000000,412.000000,512.000000</column>
+        <column id="1" name="" type="3" readonly="0">412.000000,512.000000,612.000000,0.000000</column>
+        <column id="2" name="" type="3" readonly="0">612.000000,712.000000,0.000000,0.000000</column>
+        <column id="3" name="" type="3" readonly="0">812.000000,0.000000,0.000000,0.000000</column>
+    </columns>
+</table>

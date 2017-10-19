@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="NetworkGameData" numRows="1" numCols="3" flags="83886104" tableType="4">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="PayerId" type="2" readonly="0">0</column>
+        <column id="1" name="data" type="1" readonly="0">hi there</column>
+        <column id="2" name="data2" type="3" readonly="0">123.653999</column>
+    </columns>
+</table>
